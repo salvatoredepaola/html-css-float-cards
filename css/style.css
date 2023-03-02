@@ -14,7 +14,7 @@ header{
     text-align: center;
     width: 1000px;
     margin: 30px auto;
-    border: 3px solid #73AD21;
+
 }
 .nomi{
     font-family: 'Fredoka One', cursive;
@@ -25,7 +25,7 @@ header{
     padding: 5px;
     width: 1000px;
     margin: auto;
-    border: 3px solid #73AD21;
+
 }
 .minibox{
     background-color: black;
