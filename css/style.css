@@ -1,0 +1,27 @@
+h1{
+    font-size: 30px;
+    margin-bottom: 50px;
+    font-family: 'Fredoka One', cursive;
+    color: #e53170;
+}
+
+
+
+.titolo{
+    text-align: center;
+    width: 1000px;
+    margin: 30px auto;
+    border: 3px solid #73AD21;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    width: 1000px;
+    margin: 30px auto;
+    border: 3px solid #73AD21;
+}
+.minibox{
+    width: 300px;
+    height: 100px;
+    border: 3px solid black;
+    float: left;
+}
