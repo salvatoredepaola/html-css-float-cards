@@ -15,13 +15,23 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
 }
 .box{
+    overflow: auto;
+    padding: 5px;
     width: 1000px;
-    margin: 30px auto;
+    margin: auto;
     border: 3px solid #73AD21;
 }
 .minibox{
+    margin: auto;
+    margin: 13px;
     width: 300px;
-    height: 100px;
+    height: 80px;
     border: 3px solid black;
     float: left;
+}
+img{
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin-right: 1rem;
 }
